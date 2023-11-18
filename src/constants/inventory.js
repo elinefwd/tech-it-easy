@@ -9,7 +9,7 @@ export const bestSellingTv = {
     screenType: 'LED-LCD',
     screenQuality: 'Ultra HD/4K',
     smartTv: true,
-    sourceImg: 'https://image.coolblue.nl/max/500x500/products/1786196',
+    sourceImg: 'https://image.coolblue.nl/max/300x300/products/1786196',
     options: [
         {
             name: "wifi",
@@ -48,7 +48,7 @@ export let inventory = [
         screenType: 'LED',
         screenQuality: 'Ultra HD/4K',
         smartTv: true,
-        sourceImg: 'https://media.s-bol.com/71r1kjwlLkWO/1200x793.jpg',
+        sourceImg:  'https://media.s-bol.com/71r1kjwlLkWO/1200x793.jpg',
         options: [
             {
                 name: "wifi",

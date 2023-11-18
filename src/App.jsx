@@ -99,7 +99,9 @@ function App() {
                 return (
                     <article className="product" key={tv.type}>
                             <span className="product-image">
-                                <img src={tv.sourceImg} alt="Afbeelding van het product"/>
+                                <img
+                                    className="avatar"
+                                    src ={tv.sourceImg} alt="Afbeelding van het product"/>
                             </span>
                         <div className="product-info">
                             <h3>{createProductName(tv)}</h3>h
